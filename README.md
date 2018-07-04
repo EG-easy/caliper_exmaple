@@ -10,8 +10,8 @@ you can make benchmark in the below docker container.
 3org2peer
 3org3peer
 
-You can start 2org1peer benchmark with below command 
+You can start 2org1peer benchmark with below command.
+
 ```ruby:caliper/
 node benchmark/simple/main.js -c config-fabric-2.1.json
-
 ```
